@@ -27,4 +27,6 @@ categories:
   - title: "Categories4"
     url: /categories/categories4/
   - title: "CodingTest"
-    url: /categories/codingtest/
+    childer:
+      - title: "Python"
+        url: /categories/python/
